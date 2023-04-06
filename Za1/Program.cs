@@ -13,4 +13,4 @@ int ReadInt(string message)
 
 int number = ReadInt("enter number");
 int lastDigit = number / 10 % 10;
-System.Console.WriteLine($"Last chiffre of number {number} egal {lastDigit}");
+System.Console.WriteLine($"Seconde chiffre of number {number} egal {lastDigit}");

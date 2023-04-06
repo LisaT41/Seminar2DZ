@@ -43,7 +43,7 @@ if (input == 7)
 {
     Console.WriteLine("Yes");
 }
-else
+else if (input > 7)
 {
     Console.WriteLine("Your number not correctly");
 }
